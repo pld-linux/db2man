@@ -7,6 +7,7 @@ License:	unknown
 Group:		Applications/Publishing/XML
 URL:		http://www.ocaml-programming.de/programming/download-caml.html
 Source0:	http://www.ocaml-programming.de/packages/%{name}-%{version}.tar.gz
+# Source0-md5:	acb049bc7a4f436ba9a797dc2fc532e0
 BuildRequires:	ocaml-tony-devel
 BuildRequires:	ocaml-findlib
 BuildRequires:	ocaml >= 3.04-7
