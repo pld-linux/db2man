@@ -1,5 +1,5 @@
 Summary:	Docbook refentry to roff converter
-Summary(pl.UTF-8):   Konwerter z docbook/refentry do roff
+Summary(pl.UTF-8):	Konwerter z docbook/refentry do roff
 Name:		db2man
 Version:	0.1
 Release:	1
