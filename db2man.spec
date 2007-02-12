@@ -1,5 +1,5 @@
 Summary:	Docbook refentry to roff converter
-Summary(pl):	Konwerter z docbook/refentry do roff
+Summary(pl.UTF-8):   Konwerter z docbook/refentry do roff
 Name:		db2man
 Version:	0.1
 Release:	1
@@ -20,11 +20,11 @@ file to manual pages. All "refentry" sections are transformed to
 tags that are allowed in "refentry" are supported. Unknown tags are
 simply ignored.
 
-%description -l pl
-Narzêdzie to konwertuje dokument w formacie XML-docbook do stron
-podrêcznika systemowego. Wszystkie sekcje "refentry" s± transformowane
+%description -l pl.UTF-8
+NarzÄ™dzie to konwertuje dokument w formacie XML-docbook do stron
+podrÄ™cznika systemowego. Wszystkie sekcje "refentry" sÄ… transformowane
 w formatowane troffem dokumenty. Chwilowo, dozwolony jest tylko
-podzbiór tagów docbooka, nieznane tagi s± po prostu ignorowane.
+podzbiÃ³r tagÃ³w docbooka, nieznane tagi sÄ… po prostu ignorowane.
 
 %prep
 %setup -q -n %{name}
